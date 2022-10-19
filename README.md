@@ -2,4 +2,4 @@
 assignment-1-shreyamsharma created by GitHub Classroom
 
 <br>
-assignment1_100725334_shreyasharma is the most upto date version. Runtime error has been fixed. Please consider this version
+This contains the Assignment 1 as well as a video recording of the app running on my android studio. The gradle versoin used was 7.2.1 and was build on Android Studio Dolphin Version 
